@@ -3,44 +3,16 @@
     <title>Fragments of my life</title>
     <link href="https://chueh1115blog.github.io/feed.xml" rel="self" />
     <link href="https://chueh1115blog.github.io" />
-    <updated>2026-07-05T23:43:29+02:00</updated>
+    <updated>2026-07-06T00:07:11+02:00</updated>
     <author>
-        <name>Chueh</name>
+        <name>Chueh 珏</name>
     </author>
     <id>https://chueh1115blog.github.io</id>
 
     <entry>
-        <title>關於分開，一些未能寄出的草稿</title>
-        <author>
-            <name>Chueh</name>
-        </author>
-        <link href="https://chueh1115blog.github.io/guan-yu-fen-kaiyi-xie-wei-neng-ji-chu-de-cao-gao.html"/>
-        <id>https://chueh1115blog.github.io/guan-yu-fen-kaiyi-xie-wei-neng-ji-chu-de-cao-gao.html</id>
-            <category term="生活隨筆"/>
-
-        <updated>2026-07-05T22:11:34+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>寫於分手後的第一百五十天。</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>寫於分手後的第一百五十天。</p>
-
-<p>今年的情人節前夕，和交往三年半的Z分手了。</p>
-<p>這段感情是28年來的人生中走得最長遠的一段。</p>
-<p>我始終深信著她在交往過程中說過無數次，我們不會分開。因而在忍痛提出分手後，我經常陷入是我的錯、是自己親手終結了這段感情的罪惡感當中。</p>
-<p>但</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>富士山露營</title>
         <author>
-            <name>Chueh</name>
+            <name>Chueh 珏</name>
         </author>
         <link href="https://chueh1115blog.github.io/fu-shi-shan-lu-ying.html"/>
         <id>https://chueh1115blog.github.io/fu-shi-shan-lu-ying.html</id>
@@ -48,13 +20,24 @@
             <category term="旅行紀錄"/>
 
         <updated>2026-07-05T22:09:15+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    測試
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>測試</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>德國博班申請全紀錄：如何準備到拿到Offer</title>
         <author>
-            <name>Chueh</name>
+            <name>Chueh 珏</name>
         </author>
         <link href="https://chueh1115blog.github.io/de-guo-bo-ban-shen-qing-quan-ji-luru-he-zhun-bei-dao-na-dao-offer.html"/>
         <id>https://chueh1115blog.github.io/de-guo-bo-ban-shen-qing-quan-ji-luru-he-zhun-bei-dao-na-dao-offer.html</id>
@@ -93,7 +76,7 @@
     <entry>
         <title>推し活</title>
         <author>
-            <name>Chueh</name>
+            <name>Chueh 珏</name>
         </author>
         <link href="https://chueh1115blog.github.io/tui-sihuo.html"/>
         <id>https://chueh1115blog.github.io/tui-sihuo.html</id>
@@ -106,7 +89,7 @@
     <entry>
         <title>底片</title>
         <author>
-            <name>Chueh</name>
+            <name>Chueh 珏</name>
         </author>
         <link href="https://chueh1115blog.github.io/di-pian.html"/>
         <id>https://chueh1115blog.github.io/di-pian.html</id>
@@ -119,7 +102,7 @@
     <entry>
         <title>Intro</title>
         <author>
-            <name>Chueh</name>
+            <name>Chueh 珏</name>
         </author>
         <link href="https://chueh1115blog.github.io/test3.html"/>
         <id>https://chueh1115blog.github.io/test3.html</id>
@@ -145,7 +128,7 @@
     <entry>
         <title>十一月十三，我在奧斯陸</title>
         <author>
-            <name>Chueh</name>
+            <name>Chueh 珏</name>
         </author>
         <link href="https://chueh1115blog.github.io/test2.html"/>
         <id>https://chueh1115blog.github.io/test2.html</id>
@@ -167,7 +150,7 @@
     <entry>
         <title>關於我</title>
         <author>
-            <name>Chueh</name>
+            <name>Chueh 珏</name>
         </author>
         <link href="https://chueh1115blog.github.io/test.html"/>
         <id>https://chueh1115blog.github.io/test.html</id>
