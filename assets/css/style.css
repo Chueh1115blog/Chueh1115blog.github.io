@@ -2369,7 +2369,21 @@ hr::before,
          img.is-loaded {
                opacity: 1;
                transition: opacity .6s cubic-bezier(.215,.61,.355,1), transform .2s ease-out!important; 
-         }/* 隱藏文章的社群分享區塊 */
+         }@import url("https://font.emtech.cc/css/jfOpenHuninn");
+ 
+body {
+    font-family: "Cubic11", sans-serif;
+}
+p {
+    font-family: "Cubic11", sans-serif;
+}
+h1 h2 h3 {
+    font-family: "Cubic11", sans-serif !important;
+}
+nav, .menu {
+    font-family: "Cubic11", sans-serif;
+}
+/* 隱藏文章的社群分享區塊 */
 .post__share, .post__share-caption, .share, [class*="share"] {
     display: none !important;
 }
