@@ -8,21 +8,21 @@
         }
       
     :root {
-      --body-font:          'regular400', serif;
+      --body-font:          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
       --heading-font:       'regular400', serif;
       --logo-font:          var(--body-font);
       --menu-font:          var(--body-font);
-      --font-weight-normal: 450; 
-      --font-weight-bold:   800; 
-      --line-height:        1.5;
+      --font-weight-normal: 400; 
+      --font-weight-bold:   700; 
+      --line-height:        1.65;
       --letter-spacing:     0em; 
-      --headings-weight:    800;
+      --headings-weight:    700;
       --headings-transform: none;   
       --headings-style:     normal;
       --headings-letter-spacing: 0em;
-      --headings-line-height: 1.2;     
-      --color:              #355273;  
-      --color-rgb:          53, 82, 115;   
+      --headings-line-height: 1.5;     
+      --color:              #F56A6A;  
+      --color-rgb:          245, 106, 106;   
     }
   html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2369,14 +2369,7 @@ hr::before,
          img.is-loaded {
                opacity: 1;
                transition: opacity .6s cubic-bezier(.215,.61,.355,1), transform .2s ease-out!important; 
-         }@import url("https://font.emtech.cc/css/GenRyuMinTW");
- 
-body {
-    font-family: "GenRyuMinTW", sans-serif;
-}
-p {
-    font-family: "GenRyuMinTW", sans-serif !important;
-}
+         }
 /* 隱藏文章的社群分享區塊 */
 .post__share, .post__share-caption, .share, [class*="share"] {
     display: none !important;
